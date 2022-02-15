@@ -1,1 +1,1 @@
-# vcs-bootcamp
+# Version Control Bootcamp with Git & Github
